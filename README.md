@@ -38,7 +38,7 @@ Before running this project, ensure you have the following installed:
 <a/>
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repository-url/FoodFrenzy.git
+    git clone https://github.com/govardan-codes/FoodFrenzy.git
     ```
 
 2. Navigate to the project directory:
